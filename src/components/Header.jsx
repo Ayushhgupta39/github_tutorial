@@ -35,6 +35,9 @@ export default function Header() {
           <li>Home</li>
           <li>About Us</li>
           <li>Contact</li>
+          <li>Contact</li>
+          <li>Contact</li>
+          <li>Contact</li>
         </Box>
       </Box>
     </Box>

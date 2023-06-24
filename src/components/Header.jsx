@@ -15,7 +15,7 @@ export default function Header() {
   return (
     <Box>
       <Heading textAlign={"center"} size={"xl"}>
-        Welcome to Chakra!
+        Welcome to Github Tutorial.
       </Heading>
       <Box
         display={"flex"}
